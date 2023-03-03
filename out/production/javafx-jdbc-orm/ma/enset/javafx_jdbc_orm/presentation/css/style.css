@@ -1,0 +1,17 @@
+.button{
+    -fx-font-size: 14px;
+}
+.text-field{
+    -fx-background-color: #e5e5c6;
+    -fx-border-color: #a1e0ff;
+    -fx-border-radius: 5px;
+}
+.text-field:focused{
+    -fx-background-color: #a6a601;
+}
+.root{
+    -fx-background-color: #eeeeee;
+}
+.cell:hover{
+    -fx-background-color: #9cb5b6;
+}
